@@ -5,7 +5,7 @@ A digital thermometer built with electrical components for Science Olympiad
 
 ## Pictures
 <div align="center">
-  <img src="Images/ethermo1.JPG" alt="" width=900 height=600>
+  <img src="Images/ethermo1.JPG" alt="" width=600 height=400>
 </div>
 <p align="center">
   Circuit attached to a battery pack and a wooden backboard.
