@@ -1,7 +1,7 @@
 # Digital Raspberry Pi Thermostat
 
 ## Description
-A digital thermometer built with electrical components for Science Olympiad
+A digital thermostat built with a Raspberri Pi. We used a thermistor, a type of sensor whose change in resistance is proportional to the change in temperature. If a constant current is applied to it, the voltage across the thermistor can be measured with an Analog to Digital convertor and graphed/calibrated to find the mapping between voltage and temperature. Thus, it can measure temperature.
 
 ## Pictures
 <div align="center">
